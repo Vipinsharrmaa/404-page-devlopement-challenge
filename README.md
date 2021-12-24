@@ -40,6 +40,7 @@
 Primarily, code is written for the desktop website in HTML and CSS which was a fun experience for me. 
 
 [![mobile.jpg](https://i.postimg.cc/j2Qf8ktd/mobile.jpg)](https://postimg.cc/GTt9tK4Z)
+
 I used the media query for presenting the error page.
 
 ### Built With
